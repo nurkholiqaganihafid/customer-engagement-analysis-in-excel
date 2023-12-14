@@ -7,7 +7,7 @@
 
 - **The results** of this analysis are expected to provide important insights into customer engagement strategies and future company success.
 
-- The following information about column values: [Click here](#)
+- The following information about column values: [Click here](https://github.com/nurkholiqaganihafid/customer-engagement-analysis-in-excel/blob/main/Project%20Files%20-%20Legend.txt)
 
 - Project content:
   - Descriptive Statistics
